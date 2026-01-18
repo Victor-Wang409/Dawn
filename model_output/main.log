@@ -1,0 +1,136 @@
+2025-05-03 20:26:11,540 [INFO] Experiment started at: 2025-05-03 20:26:11.540355
+2025-05-03 20:26:11,540 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=32, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 20:26:11,569 [INFO] Using device: cpu
+2025-05-03 20:26:11,569 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 20:26:11,574 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 20:26:11,589 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 20:26:11,617 [INFO] ==================================================
+2025-05-03 20:26:11,617 [INFO] Training Fold 1/5
+2025-05-03 20:26:11,617 [INFO] ==================================================
+2025-05-03 20:26:11,617 [INFO] Training samples: 3557
+2025-05-03 20:26:11,618 [INFO] Validation samples: 889
+2025-05-03 20:26:11,618 [INFO] Test samples: 1085
+2025-05-03 20:33:35,320 [INFO] Experiment started at: 2025-05-03 20:33:35.320266
+2025-05-03 20:33:35,320 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=32, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 20:33:35,341 [INFO] Using device: cpu
+2025-05-03 20:33:35,341 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 20:33:35,345 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 20:33:35,360 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 20:33:35,386 [INFO] ==================================================
+2025-05-03 20:33:35,386 [INFO] Training Fold 1/5
+2025-05-03 20:33:35,386 [INFO] ==================================================
+2025-05-03 20:33:35,386 [INFO] Training samples: 3557
+2025-05-03 20:33:35,386 [INFO] Validation samples: 889
+2025-05-03 20:33:35,386 [INFO] Test samples: 1085
+2025-05-03 20:47:43,160 [INFO] Experiment started at: 2025-05-03 20:47:43.160800
+2025-05-03 20:47:43,161 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=32, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 20:47:43,201 [INFO] Using device: cpu
+2025-05-03 20:47:43,201 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 20:47:43,212 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 20:47:43,254 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 20:47:43,297 [INFO] ==================================================
+2025-05-03 20:47:43,297 [INFO] Training Fold 1/5
+2025-05-03 20:47:43,297 [INFO] ==================================================
+2025-05-03 20:47:43,298 [INFO] Training samples: 3557
+2025-05-03 20:47:43,298 [INFO] Validation samples: 889
+2025-05-03 20:47:43,298 [INFO] Test samples: 1085
+2025-05-03 20:57:38,256 [INFO] Experiment started at: 2025-05-03 20:57:38.256076
+2025-05-03 20:57:38,256 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=32, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 20:57:38,966 [INFO] Using device: cuda
+2025-05-03 20:57:38,966 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 20:57:38,971 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 20:57:38,985 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 20:57:39,010 [INFO] ==================================================
+2025-05-03 20:57:39,010 [INFO] Training Fold 1/5
+2025-05-03 20:57:39,010 [INFO] ==================================================
+2025-05-03 20:57:39,010 [INFO] Training samples: 3557
+2025-05-03 20:57:39,010 [INFO] Validation samples: 889
+2025-05-03 20:57:39,011 [INFO] Test samples: 1085
+2025-05-03 20:58:46,024 [INFO] Experiment started at: 2025-05-03 20:58:46.024627
+2025-05-03 20:58:46,024 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=16, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 20:58:46,885 [INFO] Using device: cuda
+2025-05-03 20:58:46,886 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 20:58:46,891 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 20:58:46,905 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 20:58:46,929 [INFO] ==================================================
+2025-05-03 20:58:46,929 [INFO] Training Fold 1/5
+2025-05-03 20:58:46,929 [INFO] ==================================================
+2025-05-03 20:58:46,929 [INFO] Training samples: 3557
+2025-05-03 20:58:46,929 [INFO] Validation samples: 889
+2025-05-03 20:58:46,929 [INFO] Test samples: 1085
+2025-05-03 21:07:06,388 [INFO] Fold 1, Epoch   1 | LR: 1.00e-05 | Loss: 0.6176 | Val CCC: V=0.268, A=0.717, D=0.503 | Avg=0.496
+2025-05-03 21:07:08,255 [INFO] Saved new best model with val_ccc=0.496
+2025-05-03 21:15:59,723 [INFO] Fold 1, Epoch   2 | LR: 1.00e-05 | Loss: 0.4811 | Val CCC: V=0.579, A=0.722, D=0.533 | Avg=0.612
+2025-05-03 21:16:03,015 [INFO] Saved new best model with val_ccc=0.612
+2025-05-03 21:25:10,353 [INFO] Fold 1, Epoch   3 | LR: 1.00e-05 | Loss: 0.4045 | Val CCC: V=0.583, A=0.753, D=0.590 | Avg=0.642
+2025-05-03 21:25:15,445 [INFO] Saved new best model with val_ccc=0.642
+2025-05-03 21:34:18,412 [INFO] Fold 1, Epoch   4 | LR: 1.00e-05 | Loss: 0.3854 | Val CCC: V=0.630, A=0.754, D=0.594 | Avg=0.659
+2025-05-03 21:34:21,627 [INFO] Saved new best model with val_ccc=0.659
+2025-05-03 22:24:07,946 [INFO] Experiment started at: 2025-05-03 22:24:07.946350
+2025-05-03 22:24:07,946 [INFO] Arguments: Namespace(audio_dir='/home/wangchenhao/Github/Dataset/IEMOCAP', batch_size=16, csv_path='/home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv', epochs=40, lr=1e-05, max_len=250000, model_name='audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim', output_dir='./model_output', patience=10, seed=42, specific_fold=None)
+2025-05-03 22:24:08,671 [INFO] Using device: cuda
+2025-05-03 22:24:08,671 [INFO] Loading model processor: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim
+2025-05-03 22:24:08,676 [INFO] Loading data from: /home/wangchenhao/Github/DGFMT/csv_files/IEMOCAP.csv
+2025-05-03 22:24:08,690 [INFO] Splitting dataset using split_iemocap function...
+2025-05-03 22:24:08,714 [INFO] ==================================================
+2025-05-03 22:24:08,714 [INFO] Training Fold 1/5
+2025-05-03 22:24:08,714 [INFO] ==================================================
+2025-05-03 22:24:08,714 [INFO] Training samples: 3557
+2025-05-03 22:24:08,714 [INFO] Validation samples: 889
+2025-05-03 22:24:08,714 [INFO] Test samples: 1085
+2025-05-03 22:32:36,958 [INFO] Fold 1, Epoch   1 | LR: 1.00e-05 | Loss: 0.6176 | Val CCC: V=0.268, A=0.717, D=0.503 | Avg=0.496
+2025-05-03 22:32:43,781 [INFO] Saved new best model with val_ccc=0.496
+2025-05-03 22:41:42,571 [INFO] Fold 1, Epoch   2 | LR: 1.00e-05 | Loss: 0.4811 | Val CCC: V=0.580, A=0.724, D=0.536 | Avg=0.613
+2025-05-03 22:41:49,018 [INFO] Saved new best model with val_ccc=0.613
+2025-05-03 22:51:00,798 [INFO] Fold 1, Epoch   3 | LR: 1.00e-05 | Loss: 0.4046 | Val CCC: V=0.580, A=0.754, D=0.590 | Avg=0.641
+2025-05-03 22:51:07,747 [INFO] Saved new best model with val_ccc=0.641
+2025-05-03 23:00:16,542 [INFO] Fold 1, Epoch   4 | LR: 1.00e-05 | Loss: 0.3854 | Val CCC: V=0.617, A=0.753, D=0.595 | Avg=0.655
+2025-05-03 23:00:23,059 [INFO] Saved new best model with val_ccc=0.655
+2025-05-03 23:09:39,583 [INFO] Fold 1, Epoch   5 | LR: 1.00e-05 | Loss: 0.3652 | Val CCC: V=0.629, A=0.757, D=0.603 | Avg=0.663
+2025-05-03 23:09:42,637 [INFO] Saved new best model with val_ccc=0.663
+2025-05-03 23:19:00,819 [INFO] Fold 1, Epoch   6 | LR: 1.00e-05 | Loss: 0.3583 | Val CCC: V=0.629, A=0.745, D=0.579 | Avg=0.651
+2025-05-03 23:28:21,228 [INFO] Fold 1, Epoch   7 | LR: 1.00e-05 | Loss: 0.3465 | Val CCC: V=0.689, A=0.759, D=0.603 | Avg=0.684
+2025-05-03 23:28:24,154 [INFO] Saved new best model with val_ccc=0.684
+2025-05-03 23:37:43,584 [INFO] Fold 1, Epoch   8 | LR: 1.00e-05 | Loss: 0.3389 | Val CCC: V=0.682, A=0.747, D=0.608 | Avg=0.679
+2025-05-03 23:47:06,135 [INFO] Fold 1, Epoch   9 | LR: 1.00e-05 | Loss: 0.3228 | Val CCC: V=0.683, A=0.765, D=0.619 | Avg=0.689
+2025-05-03 23:47:09,203 [INFO] Saved new best model with val_ccc=0.689
+2025-05-03 23:56:27,922 [INFO] Fold 1, Epoch  10 | LR: 1.00e-05 | Loss: 0.3133 | Val CCC: V=0.705, A=0.766, D=0.619 | Avg=0.697
+2025-05-03 23:56:31,641 [INFO] Saved new best model with val_ccc=0.697
+2025-05-04 00:05:50,258 [INFO] Fold 1, Epoch  11 | LR: 1.00e-05 | Loss: 0.3094 | Val CCC: V=0.693, A=0.758, D=0.615 | Avg=0.688
+2025-05-04 00:15:06,708 [INFO] Fold 1, Epoch  12 | LR: 1.00e-05 | Loss: 0.3014 | Val CCC: V=0.677, A=0.755, D=0.594 | Avg=0.675
+2025-05-04 00:24:22,191 [INFO] Fold 1, Epoch  13 | LR: 1.00e-05 | Loss: 0.2952 | Val CCC: V=0.704, A=0.765, D=0.618 | Avg=0.696
+2025-05-04 00:33:39,851 [INFO] Fold 1, Epoch  14 | LR: 1.00e-05 | Loss: 0.2890 | Val CCC: V=0.688, A=0.761, D=0.630 | Avg=0.693
+2025-05-04 00:42:57,121 [INFO] Fold 1, Epoch  15 | LR: 1.00e-05 | Loss: 0.2894 | Val CCC: V=0.700, A=0.759, D=0.616 | Avg=0.692
+2025-05-04 00:52:13,074 [INFO] Fold 1, Epoch  16 | LR: 1.00e-05 | Loss: 0.2795 | Val CCC: V=0.715, A=0.762, D=0.625 | Avg=0.701
+2025-05-04 00:52:17,236 [INFO] Saved new best model with val_ccc=0.701
+2025-05-04 01:01:32,418 [INFO] Fold 1, Epoch  17 | LR: 1.00e-05 | Loss: 0.2736 | Val CCC: V=0.708, A=0.745, D=0.603 | Avg=0.685
+2025-05-04 01:10:48,426 [INFO] Fold 1, Epoch  18 | LR: 1.00e-05 | Loss: 0.2756 | Val CCC: V=0.713, A=0.763, D=0.632 | Avg=0.703
+2025-05-04 01:10:52,874 [INFO] Saved new best model with val_ccc=0.703
+2025-05-04 01:20:09,766 [INFO] Fold 1, Epoch  19 | LR: 1.00e-05 | Loss: 0.2654 | Val CCC: V=0.714, A=0.763, D=0.612 | Avg=0.696
+2025-05-04 01:29:24,418 [INFO] Fold 1, Epoch  20 | LR: 1.00e-05 | Loss: 0.2607 | Val CCC: V=0.702, A=0.766, D=0.619 | Avg=0.696
+2025-05-04 01:38:43,186 [INFO] Fold 1, Epoch  21 | LR: 1.00e-05 | Loss: 0.2552 | Val CCC: V=0.713, A=0.768, D=0.628 | Avg=0.703
+2025-05-04 01:38:46,139 [INFO] Saved new best model with val_ccc=0.703
+2025-05-04 01:48:04,776 [INFO] Fold 1, Epoch  22 | LR: 1.00e-05 | Loss: 0.2503 | Val CCC: V=0.722, A=0.768, D=0.623 | Avg=0.704
+2025-05-04 01:48:07,690 [INFO] Saved new best model with val_ccc=0.704
+2025-05-04 01:57:24,653 [INFO] Fold 1, Epoch  23 | LR: 1.00e-05 | Loss: 0.2474 | Val CCC: V=0.697, A=0.767, D=0.624 | Avg=0.696
+2025-05-04 02:06:50,527 [INFO] Fold 1, Epoch  24 | LR: 1.00e-05 | Loss: 0.2420 | Val CCC: V=0.716, A=0.761, D=0.632 | Avg=0.703
+2025-05-04 02:16:15,398 [INFO] Fold 1, Epoch  25 | LR: 1.00e-05 | Loss: 0.2335 | Val CCC: V=0.712, A=0.753, D=0.637 | Avg=0.701
+2025-05-04 02:25:34,941 [INFO] Fold 1, Epoch  26 | LR: 1.00e-05 | Loss: 0.2408 | Val CCC: V=0.701, A=0.758, D=0.627 | Avg=0.695
+2025-05-04 02:34:55,911 [INFO] Fold 1, Epoch  27 | LR: 1.00e-05 | Loss: 0.2440 | Val CCC: V=0.710, A=0.762, D=0.632 | Avg=0.701
+2025-05-04 02:44:16,642 [INFO] Fold 1, Epoch  28 | LR: 5.00e-06 | Loss: 0.2272 | Val CCC: V=0.691, A=0.753, D=0.616 | Avg=0.687
+2025-05-04 02:53:38,249 [INFO] Fold 1, Epoch  29 | LR: 5.00e-06 | Loss: 0.2203 | Val CCC: V=0.708, A=0.762, D=0.624 | Avg=0.698
+2025-05-04 03:02:59,530 [INFO] Fold 1, Epoch  30 | LR: 5.00e-06 | Loss: 0.2250 | Val CCC: V=0.692, A=0.759, D=0.622 | Avg=0.691
+2025-05-04 03:12:17,695 [INFO] Fold 1, Epoch  31 | LR: 5.00e-06 | Loss: 0.2184 | Val CCC: V=0.704, A=0.757, D=0.616 | Avg=0.692
+2025-05-04 03:21:39,261 [INFO] Fold 1, Epoch  32 | LR: 5.00e-06 | Loss: 0.2147 | Val CCC: V=0.693, A=0.757, D=0.616 | Avg=0.689
+2025-05-04 03:21:45,901 [INFO] Early stopping triggered at epoch 32
+2025-05-04 03:22:32,371 [INFO] Test Results for Fold 1:
+CCC Valence: 0.654
+CCC Arousal: 0.736
+CCC Dominance: 0.569
+Average CCC: 0.653
+2025-05-04 03:22:32,373 [INFO] ==================================================
+2025-05-04 03:22:32,374 [INFO] Training Fold 2/5
+2025-05-04 03:22:32,374 [INFO] ==================================================
+2025-05-04 03:22:32,374 [INFO] Training samples: 3607
+2025-05-04 03:22:32,374 [INFO] Validation samples: 901
+2025-05-04 03:22:32,374 [INFO] Test samples: 1023
